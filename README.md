@@ -5,6 +5,8 @@ This respository is for my Maglev train project. It includes the Final STL files
 
 The magnets used were Dollarama 12 pc clear magents. No affiliation with them at all, but these worked best for me because they were easy to find a lot of. The hole sizes on the CAD are based on how these magnets fit.
 
+The STL files are exported in mm, so ensure your printer is set to the same if you plan on using this.
+
 
 ## Public Onshape
 Please note that clicking the link will cause an error due to security features; to access the Onshape, copy paste the link into your browser instead
