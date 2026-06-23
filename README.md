@@ -14,5 +14,5 @@ Below are some notable images:
 
 
 ## Train, Track, and Launcher
-![Train, Track, and Launcher](photos/printed.png)
+![Train, Track, and Launcher](photos/0.jpg)
 
