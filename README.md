@@ -1,4 +1,16 @@
 # Maglev-Train
-Associated Code for Maglev Train
+Files and images for my homemade Maglev Train
 
-This respository is for my Maglev train project, incase I plan on using code such as for an Arduino to help make it move. However, it should be noted that this depends on how far the project is actually able to go with my own commitments, so it might just be the physically printed item only.
+This respository is for my Maglev train project. It includes the Final STL files for my Maglev Train. 
+
+[Public Onshape]([url](https://cad.onshape.com/documents/ca7f9dd15de26119312515e9/w/9644ee87d97acfb09d4b386d/e/605830fbe88ced165cf9d9ec?renderMode=0&uiState=6a3abeb0a00f13c41af5a756))
+
+
+Below are some notable images:
+
+## CAD of Train and Track
+![CAD of Train and Track](photos/CAD.png)
+
+
+## Train, Track, and Launcher
+![Train, Track, and Launcher](photos/CAD.png)
